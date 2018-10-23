@@ -2,7 +2,7 @@ title: Sohojoe.GitHub.io
 description: 
 google_analytics: 
 show_downloads: true
-remote_theme: daattali/beautiful-jekyll
+remote_theme: daattali / beautiful-jekyll
 
 gems:
   - jekyll-mentions
