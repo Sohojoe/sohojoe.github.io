@@ -1,9 +1,9 @@
 2018-Oct-23
 
 # Getting started with ML-Agents MarathonEnvs v0.5
-![Banner](images/MarathonEnvsBanner.gif)
+![Banner](Images/MarathonEnvsBanner.gif)
 ## TL;DR
-* TODO add download link
+* TODO add download link!
 
 ## About MarathonEnvs
 
