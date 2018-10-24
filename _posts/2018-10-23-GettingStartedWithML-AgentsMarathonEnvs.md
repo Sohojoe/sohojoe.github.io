@@ -1,4 +1,10 @@
-2018-Oct-23
+---
+layout: post
+title: Getting Started With ML-Agents MarathonEnvs
+subtitle: Quick tutorial to get you up and going with MarathonEnvs
+date: 2016-10-23 21:11:27
+author: Joe Booth
+---
 
 # Getting started with ML-Agents MarathonEnvs v0.5
 ![Banner](Images/MarathonEnvsBanner.gif)
