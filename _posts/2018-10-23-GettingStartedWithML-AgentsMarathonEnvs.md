@@ -7,7 +7,7 @@ author: Joe Booth
 ---
 
 # Getting started with ML-Agents MarathonEnvs v0.5
-![Banner](Images/MarathonEnvsBanner.gif)
+![Banner](/_posts/Images/MarathonEnvsBanner.gif)
 ## TL;DR
 * TODO add download link!
 
