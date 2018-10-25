@@ -1,5 +1,5 @@
 ---
-layout: rawnotepost
+layout: rlpost
 title: Active Ragdoll StyleTransfer002 Raw Notes
 subtitle: Raw notes from each experiment.
 date:
