@@ -2,7 +2,8 @@
 layout: rlpost
 title: Getting Started With ML-Agents MarathonEnvs v0.5
 subtitle: Quick tutorial to get you up and going with MarathonEnvs
-date: {}
+date:
+  '2018-10-23 11:30:00 +0800': null
 author: Joe Booth
 published: true
 ---
