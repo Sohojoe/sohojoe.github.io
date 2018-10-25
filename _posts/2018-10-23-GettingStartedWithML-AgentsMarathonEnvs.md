@@ -6,7 +6,6 @@ date: {}
 author: Joe Booth
 published: true
 ---
-<!-- # Getting started with ML-Agents MarathonEnvs v0.5 -->
 ![Banner](/2018-images/MarathonEnvsBanner.gif)
 ## TL;DR
 * TODO add download link!
