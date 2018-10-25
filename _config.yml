@@ -12,12 +12,17 @@ keep_files:
   - ".git"
   - ".gitignore"
 
+collections:
+  rl:
+    output: true
+  rawnotes:
+    output: true
 
 # Site settings
 
 title: Sohojoe
 description: "website stugg"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+url: "http://sohojoe.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
