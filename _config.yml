@@ -14,8 +14,12 @@ keep_files:
 
 collections:
   rl:
+    posts:
+      output: true
     output: true
   rawnotes:
+    posts:
+      output: true
     output: true
 
 # Site settings
