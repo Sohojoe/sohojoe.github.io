@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rlpost
 title: Getting Started With ML-Agents MarathonEnvs v0.5
 subtitle: Quick tutorial to get you up and going with MarathonEnvs
 date: 2016-10-23 21:11:27
