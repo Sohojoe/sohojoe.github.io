@@ -15,12 +15,12 @@ permalink: /rl/
       </div>
     </div>
   </section>
-  {% for rlpost in site.posts %}
+  {% for post in site.posts %}
   <div class="post-area">
-    <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ rlpost.title }}</a>
-    <p class="post-date">{{ rlpost.date | date_to_long_string }}</p>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
+    <p class="post-date">{{ post.date | date_to_long_string }}</p>
     <p>
-      {{ rlpost.content | strip_html | truncatewords: 50 }}
+      {{ post.content | strip_html | truncatewords: 50 }}
     </p>
   </div>
   {% endfor %}
