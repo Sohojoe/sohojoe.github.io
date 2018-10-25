@@ -6,6 +6,7 @@ date:
   '2018-10-23 11:30:00 +0800': null
 author: Joe Booth
 published: true
+category: rawnotes
 ---
 
 * 002.135 - backflip (StyleTransfer002) with random trainer = 32m - so so, better than 133 but not as good as 134; will keep training both
@@ -246,4 +247,4 @@ published: true
 * 002.019 = running, power * 1 (StyleTransfer002)
 * 002.018 = MMA Kick, power * 1
 * 002.016 = running, power * 1
-* 
+*
