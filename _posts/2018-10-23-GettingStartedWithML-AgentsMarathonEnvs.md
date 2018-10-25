@@ -2,8 +2,9 @@
 layout: rlpost
 title: Getting Started With ML-Agents MarathonEnvs v0.5
 subtitle: Quick tutorial to get you up and going with MarathonEnvs
-date: 2016-10-23 21:11:27
+date: {}
 author: Joe Booth
+published: true
 ---
 <!-- # Getting started with ML-Agents MarathonEnvs v0.5 -->
 ![Banner](/2018-images/MarathonEnvsBanner.gif)
@@ -13,8 +14,8 @@ author: Joe Booth
 ## About MarathonEnvs
 
 ## Setting up your development repository
-* download ml-agents v0.5
-* download MarathonEnvs
+* download [ml-agents v0.5.0a](https://github.com/Unity-Technologies/ml-agents/archive/0.5.0a.zip)
+* download MarathonEnvs [MarathonEnvs](https://github.com/Unity-Technologies/marathon-envs/archive/master.zip)
 * merge the two
 * install tensorflowsharp
 * set up pythons
@@ -31,4 +32,3 @@ author: Joe Booth
  * Reward Function
  * Termination
  * Observations
-
