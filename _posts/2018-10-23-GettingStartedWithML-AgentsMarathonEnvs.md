@@ -15,11 +15,12 @@ category: rl
 ## About MarathonEnvs
 
 ## Setting up your development repository
+
 * Ensure you have Unity 2017.4 or above
 * download [ML-Agents Beta 0.5.0a](https://github.com/Unity-Technologies/ml-agents/releases/tag/0.5.0a) [zip](https://github.com/Unity-Technologies/ml-agents/archive/0.5.0a.zip)
 * download [MarathonEnvs 0.5.0a](https://github.com/Unity-Technologies/marathon-envs/releases/tag/0.5.0a)[zip](https://github.com/Unity-Technologies/marathon-envs/archive/0.5.0a.zip)
 * download [TFSharpPlugin.unitypackage](https://s3.amazonaws.com/unity-ml-agents/0.5/TFSharpPlugin.unitypackage)
-* 
+ 
 * install tensorflowsharp
 * set up pythons
 * open Unity
